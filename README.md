@@ -1,4 +1,4 @@
-### Hi there 👋
+# RAJALAIREN
 
 <!--
 **RajaLairen/RajaLairen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p><div style="width:200px;background-color:pink;text-align:center;padding:5px;border-radius:5px">C++</div></p>
