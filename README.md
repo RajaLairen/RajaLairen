@@ -1,2 +1,2 @@
 # RAJALAIREN
-<p style="color:white">C++</p>
+<span style="color:blue">some *blue* text</span>
