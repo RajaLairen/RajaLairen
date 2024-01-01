@@ -21,3 +21,9 @@ jobs:
 
       - name: Update README
         run: node update-readme.js
+      - name: Debug Information
+        run: |
+          echo "Working directory: $(pwd)"
+          echo "Contents of the repository: $(ls -a)"
+
+
