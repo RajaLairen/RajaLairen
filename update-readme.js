@@ -9,7 +9,7 @@ fs.readFile(readmePath, 'utf-8', (err, data) => {
     process.exit(1);
   }
 
-  const updatedContent = data.replace(/<!-- last-update -->/, `Last Updated: ${currentDate}`);
+  const updatedContent = data.replace(/<!-- last-update -->/,'Hello World');
   
   fs.writeFile(readmePath, updatedContent, 'utf-8', (writeErr) => {
     if (writeErr) {
