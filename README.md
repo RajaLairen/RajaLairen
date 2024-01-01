@@ -34,4 +34,4 @@ Welcome to my interactive GitHub profile! This section will be dynamically updat
 Last Updated: <!-- last-update -->
 
 # Contribution
-![snake gif](https://github.com/RajaLairen/RajaLairen/blob/output/github-snake.svg)
+![snake gif](https://github.com/RajaLairen/RajaLairen/blob/output/ocean.gif)
