@@ -26,3 +26,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajalairen&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajalairen&theme=dark" alt="rajalairen" />
+
+# Interactive GitHub Profile
+
+Welcome to my interactive GitHub profile! This section will be dynamically updated.
+
+Last Updated: <!-- last-update -->
