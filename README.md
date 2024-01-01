@@ -32,3 +32,6 @@
 Welcome to my interactive GitHub profile! This section will be dynamically updated.
 
 Last Updated: <!-- last-update -->
+
+## My Contribution
+![snake gif](https://github.com/RajaLairen/RajaLairen/blob/output/github-contribution-grid-snake.gif)
