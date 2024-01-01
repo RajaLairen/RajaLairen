@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,dotnet,flask,react,nodejs,github,neovim" />
-    <img src="https://skillicons.dev/icons?i=python,r,cs,js,mysql,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,cs,js,mysql" /><br>
 </div>
 
 <h2 align="center">Hobby</h2>
