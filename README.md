@@ -31,13 +31,24 @@
 </div>
 
  <hr/>
- 
+
+ <h2 align="center">Data Science Stack</h2>
+<br/>
+<div align="center">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" /><br>
+</div>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,dotnet,flask,react,nodejs,github,neovim" />
     <img src="https://skillicons.dev/icons?i=python,r,cs,js,mysql" /><br>
 </div>
+
+
+
 
 <h2 align="center">Hobby</h2>
 <br/>
