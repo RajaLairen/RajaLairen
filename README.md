@@ -45,21 +45,18 @@
 </div>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=django,flask,dotnet,react,nodejs" />
     <img src="https://skillicons.dev/icons?i=python,r,cs,js,mysql" /><br>
 </div>
 
 <h2 align="center">Server</h2>
-<br/>
 <div align="center">
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /><br>
 </div>
 
 <h2 align="center">Linux Distros</h2>
-<br/>
 <div align="center">
     <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -67,7 +64,6 @@
 </div>
 
 <h2 align="center">Hobby</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=unity,godot" />
 </div>
