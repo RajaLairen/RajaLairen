@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div style="background:url('https://img.freepik.com/free-vector/ai-technology-microchip-background-vector-digital-transformation-concept_53876-117808.jpg')" align="center">
  
  🌱 I’m currently learning **DataScience,ML,DL,LLM,Docker,ASP.NET**
 
