@@ -47,7 +47,7 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=django,flask,dnet,react,nodejs" />
     <img src="https://skillicons.dev/icons?i=python,r,cs,js,mysql" /><br>
 </div>
 
