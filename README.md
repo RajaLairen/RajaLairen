@@ -47,13 +47,13 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=django,flask,dotnet,react,nodejs" />
-    <img src="https://skillicons.dev/icons?i=python,r,cs,js,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,cs,js,mysql" />
 </div>
 
 <h2 align="center">Server</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
 
 <h2 align="center">Linux Distros</h2>
