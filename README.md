@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **DataScience,ML,DL,LLM,Docker,ASP.NET**
+ I’m currently learning **Reinforcement Learning**
 
 💬 Ask me about **DataScience,ML,DL,ASP.NET,Node [here](https://github.com/RajaLairen)**
 
